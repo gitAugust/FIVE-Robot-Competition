@@ -1,1 +1,2 @@
-# FIVE-Robot-Competition
+# FIVE-Province-Machine-Competition
+This project is a program of the five major robot competitions in North China. It participates in the golf project and is divided into two parts: controlling the robot along the track and playing golf. It is mainly written in Python language. The hardware is controlled by the Raspberry Pi and is controlled by the steering gear control panel. Robot consisting of 24 servos
